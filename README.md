@@ -2,7 +2,6 @@
 This GitHub hosts 51 flash games for everyone to enjoy, from home to school to work.
 
 ### Games
-###### Super Mario 63
 https://coolan127gamer.github.io/SWFGames-Flash-/html/
 
 # Installation (Local)
